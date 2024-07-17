@@ -1,4 +1,4 @@
-FROM openjdk:14
+FROM openjdk:latest
 ENV TZ=Europe/Berlin
 ENV STAGE=COMPOSE
 
